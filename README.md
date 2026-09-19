@@ -15,7 +15,7 @@
 
 *A comprehensive collection of verified professional certifications, digital achievement badges, and structured technical learning milestones earned through globally recognized learning platforms.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-shaikbasha--dev-181717?style=flat-square&logo=github)](https://github.com/shaikbasha-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-smbashadev-181717?style=flat-square&logo=github)](https://github.com/smbashadev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shaikbasha--dev-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shaikbasha-dev/)
 
 </div>
