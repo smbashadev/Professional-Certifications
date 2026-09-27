@@ -4,7 +4,7 @@
 
 ### A Curated Collection of Professional Certifications, Digital Achievement Badges, and Continuous Learning Milestones
 
-![Certificates](https://img.shields.io/badge/Certificates-12-success?style=for-the-badge)
+![Certificates](https://img.shields.io/badge/Certificates-13-success?style=for-the-badge)
 ![Badges](https://img.shields.io/badge/Digital%20Badges-7-blue?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-Full%20Stack-red?style=for-the-badge&logo=openjdk)
 ![Oracle](https://img.shields.io/badge/Oracle-SQL-F80000?style=for-the-badge&logo=oracle)
@@ -63,9 +63,9 @@ This repository has been created to:
 
 | Category | Details |
 |-----------|---------|
-| 🎓 Professional Certificates | **12** |
+| 🎓 Professional Certificates | **13** |
 | 🏅 Digital Achievement Badges | **7** |
-| 🌐 Learning Platforms | **4** |
+| 🌐 Learning Platforms | **5** |
 | 💻 Programming Languages | **Java, Python, JavaScript, SQL** |
 | 🎨 Frontend Technologies | **HTML5, CSS3** |
 | 🗄️ Database Technologies | **Oracle SQL** |
@@ -84,6 +84,7 @@ The certifications contained in this repository have been earned through the fol
 | **Coursera** | Global online learning platform providing university-recognized courses. |
 | **IBM Cognitive Class** | Learning platform focused on databases, cloud computing, artificial intelligence, and software development. |
 | **Great Learning** | Professional learning platform offering practical software development and web development courses. |
+| **HackerRank** | Technology-focused platform providing coding practice, skill assessments, and certifications. |
 
 ---
 
@@ -93,7 +94,30 @@ The following certifications demonstrate continuous learning across programming 
 
 ---
 
-## 1️⃣ Programming using Java – Special Batches
+## 🏆 Java (Basic) Certification
+
+| Property | Details |
+|----------|---------|
+| **Platform** | HackerRank |
+| **Year** | 2026 |
+| **Completion Date** | September 27, 2026 |
+| **Credential ID** | 3C7D26F88368 |
+| **Verification Status** | Verified |
+| **Certificate** | [View Certificate](https://github.com/smbashadev/Professional-Certifications/blob/main/java_basic%20certificate.pdf) |
+
+### Skills Demonstrated
+
+- Java Programming
+- Core Java Fundamentals
+- Object-Oriented Programming
+- Data Structures
+- Exception Handling
+- Classes and Objects
+- Inheritance
+
+---
+
+## 2️⃣ Programming using Java – Special Batches
 
 | Property | Details |
 |----------|---------|
@@ -139,7 +163,7 @@ The following certifications demonstrate continuous learning across programming 
 
 ---
 
-## 2️⃣ Getting Started with Java: The Fundamentals of Java Programming
+## 3️⃣ Getting Started with Java: The Fundamentals of Java Programming
 
 | Property | Details |
 |----------|---------|
@@ -163,7 +187,7 @@ The following certifications demonstrate continuous learning across programming 
 
 ---
 
-## 3️⃣ HTML5 – The Language
+## 4️⃣ HTML5 – The Language
 
 | Property | Details |
 |----------|---------|
@@ -186,7 +210,7 @@ The following certifications demonstrate continuous learning across programming 
 
 ---
 
-## 4️⃣ CSS3
+## 5️⃣ CSS3
 
 | Property | Details |
 |----------|---------|
@@ -215,7 +239,7 @@ The following certifications demonstrate continuous learning across programming 
 
 ---
 
-## 5️⃣ Introduction to Oracle: SQL
+## 6️⃣ Introduction to Oracle: SQL
 
 | Property | Details |
 |----------|---------|
@@ -249,7 +273,7 @@ The following certifications demonstrate continuous learning across programming 
 
 ---
 
-## 6️⃣ Fundamentals of Software Testing
+## 7️⃣ Fundamentals of Software Testing
 
 | Property | Details |
 |----------|---------|
@@ -280,7 +304,7 @@ The following certifications demonstrate continuous learning across programming 
 
 ---
 
-## 7️⃣ Programming for Everybody (Getting Started with Python)
+## 8️⃣ Programming for Everybody (Getting Started with Python)
 
 | Property | Details |
 |----------|---------|
@@ -299,7 +323,7 @@ The following certifications demonstrate continuous learning across programming 
 
 ---
 
-## 8️⃣ Introduction to Java
+## 9️⃣ Introduction to Java
 
 | Property | Details |
 |----------|---------|
@@ -317,7 +341,7 @@ The following certifications demonstrate continuous learning across programming 
 
 ---
 
-## 9️⃣ JavaScript Basics
+## 🔟 JavaScript Basics
 
 | Property | Details |
 |----------|---------|
@@ -336,7 +360,7 @@ The following certifications demonstrate continuous learning across programming 
 
 ---
 
-## 🔟 SQL and Relational Databases 101
+## 1️⃣1️⃣ SQL and Relational Databases 101
 
 | Property | Details |
 |----------|---------|
@@ -354,7 +378,7 @@ The following certifications demonstrate continuous learning across programming 
 
 ---
 
-## 1️⃣1️⃣ Front End Development – HTML
+## 1️⃣2️⃣ Front End Development – HTML
 
 | Property | Details |
 |----------|---------|
@@ -373,7 +397,7 @@ The following certifications demonstrate continuous learning across programming 
 
 ---
 
-## 1️⃣2️⃣ Front End Development – CSS
+## 1️⃣3️⃣ Front End Development – CSS
 
 | Property | Details |
 |----------|---------|
@@ -395,19 +419,20 @@ The following certifications demonstrate continuous learning across programming 
 # 📋 Certification Summary
 
 | No. | Certification | Platform | Year | Domain |
-|:--:|---------------|----------|:---:|--------|
-| 1 | Programming using Java – Special Batches | Infosys Springboard | 2026 | Java |
-| 2 | Getting Started with Java: The Fundamentals of Java Programming | Infosys Springboard | 2026 | Java |
-| 3 | HTML5 – The Language | Infosys Springboard | 2026 | HTML5 |
-| 4 | CSS3 | Infosys Springboard | 2026 | CSS3 |
-| 5 | Introduction to Oracle: SQL | Infosys Springboard | 2026 | Oracle SQL |
-| 6 | Fundamentals of Software Testing | Infosys Springboard | 2026 | Software Testing |
-| 7 | Programming for Everybody (Getting Started with Python) | Coursera | 2023 | Python |
-| 8 | Introduction to Java | Coursera | 2023 | Java |
-| 9 | JavaScript Basics | Coursera | 2022 | JavaScript |
-| 10 | SQL and Relational Databases 101 | IBM Cognitive Class | 2023 | SQL |
-| 11 | Front End Development – HTML | Great Learning | 2024 | HTML5 |
-| 12 | Front End Development – CSS | Great Learning | 2024 | CSS3 |
+|:--:|---------------|----------|:---:|:------|
+| 1 | Java (Basic) Certification | HackerRank | 2026 | Java |
+| 2 | Programming using Java – Special Batches | Infosys Springboard | 2026 | Java |
+| 3 | Getting Started with Java: The Fundamentals of Java Programming | Infosys Springboard | 2026 | Java |
+| 4 | HTML5 – The Language | Infosys Springboard | 2026 | HTML5 |
+| 5 | CSS3 | Infosys Springboard | 2026 | CSS3 |
+| 6 | Introduction to Oracle: SQL | Infosys Springboard | 2026 | Oracle SQL |
+| 7 | Fundamentals of Software Testing | Infosys Springboard | 2026 | Software Testing |
+| 8 | Programming for Everybody (Getting Started with Python) | Coursera | 2023 | Python |
+| 9 | Introduction to Java | Coursera | 2023 | Java |
+| 10 | JavaScript Basics | Coursera | 2022 | JavaScript |
+| 11 | SQL and Relational Databases 101 | IBM Cognitive Class | 2023 | SQL |
+| 12 | Front End Development – HTML | Great Learning | 2024 | HTML5 |
+| 13 | Front End Development – CSS | Great Learning | 2024 | CSS3 |
 
 ---
 
@@ -669,6 +694,7 @@ Professional-Certifications/
 ├── Introduction-to-Oracle-SQL-Infosys-Springboard-2026.pdf
 ├── Introduction_to_Java_Coursera.pdf
 ├── JavaScript_Basics_Coursera.pdf
+├── java_basic certificate.pdf
 ├── Programming_for_Everybody_Python_Coursera.pdf
 ├── Programming_using_Java_Infosys_Springboard.pdf
 ├── SQL_and_Relational_Databases_IBM.pdf
@@ -732,8 +758,6 @@ The goal is to continuously strengthen my technical skills and stay aligned with
 
 ---
 
----
-
 # 📚 Continuous Learning
 
 Learning does not stop with completing a course or earning a certificate.
@@ -751,3 +775,6 @@ I am open to opportunities in software engineering and related technical roles.
 **Open to Work | Available for Immediate Joining**
 
 Thank you for visiting my certification and learning portfolio.
+
+---
+
